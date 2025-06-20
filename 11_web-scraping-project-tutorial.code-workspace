@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../11_web-scraping-project-tutorial"
+		}
+	],
+	"settings": {
+		"workbench.editorAssociations": {
+			"*.md": "vscode.markdown.preview.editor"
+		}
+	}
+}
